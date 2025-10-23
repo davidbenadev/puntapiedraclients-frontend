@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build-cpanel": "NEXT_DISABLE_TURBOPACK=1 next build",
+    "build-cpanel": "npm ci && npm run build",
     "start": "node server.js",
     "lint": "eslint"
   },
