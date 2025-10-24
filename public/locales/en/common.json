@@ -1,0 +1,17 @@
+{
+  "signInTitle": "Sign in to your account",
+  "email": "Email",
+  "emailPlaceholder": "you@company.com",
+  "password": "Password",
+  "show": "Show",
+  "hide": "Hide",
+  "rememberMe": "Remember me",
+  "forgotPassword": "Forgot password?",
+  "signIn": "Sign in",
+  "signingIn": "Signing in",
+  "errorRequiredEmail": "Email is required",
+  "errorInvalidEmail": "Enter a valid email",
+  "errorRequiredPassword": "Password is required",
+  "loginFailed": "Login failed",
+  "unexpectedError": "An unexpected error occurred"
+}
