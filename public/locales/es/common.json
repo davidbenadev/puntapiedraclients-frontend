@@ -1,0 +1,17 @@
+{
+  "signInTitle": "Inicia sesión en tu cuenta",
+  "email": "Correo",
+  "emailPlaceholder": "tu@empresa.com",
+  "password": "Contraseña",
+  "show": "Mostrar",
+  "hide": "Ocultar",
+  "rememberMe": "Recordar sesión",
+  "forgotPassword": "¿Olvidaste tu contraseña?",
+  "signIn": "Iniciar sesión",
+  "signingIn": "Iniciando sesión",
+  "errorRequiredEmail": "El correo es obligatorio",
+  "errorInvalidEmail": "Ingresa un correo válido",
+  "errorRequiredPassword": "La contraseña es obligatoria",
+  "loginFailed": "Error al iniciar sesión",
+  "unexpectedError": "Ocurrió un error inesperado"
+}
